@@ -1,0 +1,19 @@
+/* CSS Document */
+body {
+	font-size: 11pt;  
+      font-family:Verdana, Geneva, sans-serif;  
+      font-weight: bold;  
+      position: relative;  
+	
+	
+	
+}
+
+nav {       
+      font-size: 11pt;  
+      font-family:Verdana, Geneva, sans-serif;  
+      font-weight: bold;  
+      position: relative;  
+	  margin-top: 50px; 
+      padding:10px;
+  }  

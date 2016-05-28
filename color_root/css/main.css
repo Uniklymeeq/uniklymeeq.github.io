@@ -1,0 +1,35 @@
+@charset "UTF-8";
+/* CSS Document */
+
+body { 
+
+font-family: Consolas, "Andale Mono", "Lucida Console", "Lucida Sans Typewriter", Monaco, "Courier New", monospace;
+color: #FFFFFF;
+background: #ff0084; /* fallback for old browsers */
+background: -webkit-linear-gradient(to left, #ff0084 , #33001b); /* Chrome 10-25, Safari 5.1-6 */
+background: linear-gradient(to left, #ff0084 , #33001b); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+        
+}
+
+#heading { font-size: 40px;
+			background: linear-gradient(to top left, purple, pink);}
+
+#additive { background: linear-gradient(to top right, red, green, blue);}
+
+#sub { background: linear-gradient(to top right, black, white);}
+
+#theory { 
+
+	background: linear-gradient(to bottom right, red, yellow);
+	
+	}
+
+#models {
+
+	background: linear-gradient(to bottom right, green, blue);
+	
+	}
+	
+	
+}
+

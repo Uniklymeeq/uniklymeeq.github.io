@@ -1,0 +1,38 @@
+body {
+	
+	background: url('images/iguanacover_web.jpg') no-repeat center center fixed;
+	
+		background-size: cover;
+	
+		font-family:Segoe, "Segoe UI", "DejaVu Sans", "Trebuchet MS", Verdana, sans-serif
+		
+}
+
+#title {
+	
+	position: absolute;
+	bottom: 75%;
+	left: 25%;
+	width: 50%;
+	text-align: center;
+	}
+	
+#title h1 a:link {
+	color: red;
+	text-decoration: none;
+}
+
+ #title h1 a:visited {
+	color: green;
+	text-decoration: none;
+ }
+	
+#title h1 a:hover {
+	color: red;
+	text-decoration: underline;
+	}
+	
+#title h1 a:active {
+	color: red;
+	text-decoration: underline;
+}

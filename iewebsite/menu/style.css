@@ -1,0 +1,96 @@
+
+body {
+	
+	background: url('imgs/iebackground_web.jpg') no-repeat center center fixed;
+	
+		background-size: cover;
+		
+		margin: 0;
+		
+		font-size: 100%;
+       line-height: 1.6875;
+       font-family:Verdana, Geneva, sans-serif;
+		
+}
+
+
+img { max-width: 100%;
+min-width: 100%;
+}
+
+ .clearfix:before,  
+ .clearfix:after {  
+  content: " ";  
+  display: table;  
+}  
+.clearfix:after {  
+  clear: both;  
+}  
+.clearfix {  
+  *zoom: 1;  
+}  
+
+
+#image {
+max-width:61.2%;
+mix-width:61.2%;
+margin: auto;
+margin-top: 40px;
+padding: 10px;
+	
+}
+
+#one { background-color:black;
+max-width:60%;
+mix-width:50%;
+margin: auto;
+margin-top: 60px;
+padding: 10px;
+	
+}
+
+#one:hover { opacity: 0.6;
+    filter: alpha(opacity=40); /* For IE8 and earlier */
+	transition: all 0.5s;
+	}
+
+
+#two { background-color:black;
+width:60%;
+margin: auto;
+margin-top: 70px;
+padding: 10px;
+
+}
+
+#two:hover { opacity: 0.6;
+    filter: alpha(opacity=40); /* For IE8 and earlier */
+	transition: all 0.5s;
+	}
+	
+#three { background-color:black;
+width:60%;
+margin: auto;
+margin-top: 70px;
+padding: 10px;
+
+}
+
+#three:hover { opacity: 0.6;
+    filter: alpha(opacity=40); /* For IE8 and earlier */
+	transition: all 0.5s;
+	}
+	
+	#image2 {
+max-width:61.2%;
+mix-width:61.2%;
+margin: auto;
+margin-top: 40px;
+padding: 10px;
+	
+}
+
+#image2:hover { opacity: 0.6;
+    filter: alpha(opacity=40); /* For IE8 and earlier */
+	transition: all 0.5s;
+	}

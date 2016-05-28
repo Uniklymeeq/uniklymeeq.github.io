@@ -1,0 +1,24 @@
+@charset "UTF-8";
+/* CSS Document */
+
+body {
+    
+	background-color: #000;
+	font-family:"Verdana", Geneva, sans-serif;
+	color:#FFF;}
+
+h1 {
+    color: #FFF;}
+	
+h2 { color: #30CEA8;}
+
+ul { color:#09F;}
+
+ol { color: #09F;}
+
+.pink_text { color:#F3C}
+
+#whiteback {background:#30CEA8;
+
+}
+

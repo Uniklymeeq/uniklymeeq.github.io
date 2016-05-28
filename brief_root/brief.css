@@ -1,0 +1,44 @@
+/* CSS Document */
+body {
+	
+background: url('images/iebackground_web.jpg') no-repeat center center fixed;
+
+font-family:"Lucida Sans Unicode", "Lucida Grande", sans-serif;}
+
+#three { border: 10px solid black;
+
+padding: 50px;
+
+width: 50%;
+
+margin: 40px auto;
+
+
+}
+
+#two { border: 10px solid black;
+
+padding: 20px;
+
+width: 50%;
+
+margin: 40px auto;
+
+
+}
+
+#one { border: 10px solid black;
+
+padding: 5px;
+
+width: 25%;
+
+margin: 40px auto;
+
+
+}
+
+
+
+
+

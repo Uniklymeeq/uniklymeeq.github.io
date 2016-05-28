@@ -1,0 +1,97 @@
+
+
+/*helper style*/
+.col {
+	background: #ccc;
+	box-sizing: border-box;
+}
+
+/*mainstyles */
+
+body {
+	font-family: Gotham, "Helvetica Neue", Helvetica, Arial, sans-serif;
+	font-size: 16px;
+}
+
+header {
+	height: 6em;
+	text-align: center;
+	padding: 2em;
+	background: #ddd; 
+	margin-bottom: .5em;
+	
+}
+
+#container {
+	width: 80%;
+	margin: 0 auto;
+	
+}
+
+nav {
+	
+	font-family: 'Frijole', cursive;
+	margin-bottom: .5em;
+}
+
+nav .col {
+	background: none;
+	border: 1px solid #555;
+	text-align: center;
+	box-sizing: border-box;
+	padding: .5em;
+	
+}
+
+#banner {
+	height: auto;
+	margin-bottom: .5em 
+	
+}
+
+#banner img {
+	max-width: 100%
+}
+
+#main .col {
+	height: auto;
+	
+}
+
+
+/* Type Styles */
+
+h1 {
+	
+	font-family: 'Frijole', cursive;
+	
+	font-size: 3em;
+
+	font-weight: 100;
+	letter-spacing: 2px;
+	text-transform: uppercase;
+	margin-bottom:  .5em;
+	
+}
+header h2 {
+	
+	font-family: 'Sarina', cursive;
+	
+	font-size: 1em;
+	text-transform: uppercase;
+}
+
+h2 {
+	fontsize: 4em;
+}
+
+ul {
+	list-style-stype: none;
+}
+
+li {
+	
+	padding-bottom: 1em;
+	border-bottom: 1px solid #fff;
+	
+}

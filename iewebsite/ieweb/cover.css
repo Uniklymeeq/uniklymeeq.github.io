@@ -1,0 +1,39 @@
+body {
+	
+	background: url('imgs/iebackground_web.jpg') no-repeat center center fixed;
+	
+		background-size: cover;
+	
+}
+
+#image {
+	position:absolute;
+    top: 42%;
+    left:52%;
+    margin-top:-146px;
+    margin-left:-229px;  
+    cursor:pointer;
+}
+
+#image {  max-width:15%;
+    max-height:15%;
+	
+}
+
+#image { 
+  padding-left: 50px;
+  padding-right: 50px;
+  padding-top: 32px;
+  padding-bottom: 25px;
+} 
+.image:hover { 
+  opacity: 0.6;
+    filter: alpha(opacity=40); /* For IE8 and earlier */
+  transition: all 0.5s;
+} 
+
+
+
+
+
+

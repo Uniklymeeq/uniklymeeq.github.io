@@ -1,0 +1,218 @@
+
+body {
+	
+	background: url('imgs/iebackground_web.jpg') no-repeat center center fixed;
+	
+		background-size: cover;
+		
+		margin: 0;
+		
+		font-size: 100%;
+       line-height: 1.6875;
+       font-family:Verdana, Geneva, sans-serif;
+		
+}
+
+img { max-width: 100%;
+min-width: 100%;
+
+	
+}
+
+ .clearfix:before,  
+ .clearfix:after {  
+  content: " ";  
+  display: table;  
+}  
+.clearfix:after {  
+  clear: both;  
+}  
+.clearfix {  
+  *zoom: 1;  
+}  
+
+
+#image {
+max-width:61.2%;
+margin: auto;
+margin-top: 40px;
+padding: 10px;
+	
+}
+
+#one {
+width:75%;
+margin: auto;
+margin-top: 25px;
+padding: 10px;
+	
+}
+
+#two { background-color:black;
+width:60%;
+margin: auto;
+margin-top: 10px;
+padding: 10px;
+height: 60%;
+color: #FFF;
+
+}
+
+#arcaarticle { background-color:black;
+
+padding: -100px;
+
+width: 25%;
+
+margin: 40px auto;
+
+
+}
+
+#arcaarticle { background-color:black;
+width:60%;
+margin: auto;
+margin-top: 0px;
+padding: 10px;
+height: 100%;
+color: #FFF;
+
+}
+
+#arcaarticle h1{ background-color:black;
+padding: 50px;
+padding: 4px 0;
+  color: #fff; 
+  margin: auto;
+  width: 40%;
+}
+
+#arcaarticle h1{
+border-style:double;
+border-color:#FFF;
+padding: 10px;
+position: relative;
+margin:auto;
+} 
+
+
+#arcaarticle p{ 
+  padding: 50px;
+  margin-left: 15%;
+  margin-right: 15%;
+  text-align: justify;
+  height:100%;
+  margin-top: -5%;
+	
+}
+
+#arcaarticle2 { background-color:black;
+
+padding: -100px;
+
+width: 25%;
+
+margin: 40px auto;
+
+
+}
+
+#arcaarticle2 { background-color:black;
+width:60%;
+margin: auto;
+margin-top: 0px;
+padding: 10px;
+height: 100%;
+color: #FFF;
+
+}
+
+#arcaarticle2 h1{ background-color:black;
+padding: 50px;
+padding: 4px 0;
+  color: #fff; 
+  margin: auto;
+  width: 40%;
+}
+
+#arcaarticle2 h1{
+border-style:double;
+border-color:#FFF;
+padding: 10px;
+position: relative;
+margin:auto;
+} 
+
+
+#arcaarticle2 p{ 
+  padding: 50px;
+  margin-left: 15%;
+  margin-right: 15%;
+  text-align: justify;
+  height:100%;
+  margin-top: -5%;
+	
+}
+
+
+#audio {
+background-color: black;
+width:60%;
+margin: auto;
+height: 100%;
+padding: 10px;
+margin-top: 0;
+
+}
+
+#audio2 {
+background-color: black;
+width:60%;
+margin: auto;
+height: 100%;
+padding: 10px;
+margin-top: 0;
+
+}
+
+
+#three { background-color:black;
+width:60%;
+margin: auto;
+margin-top: 100px;
+padding: 10px;
+
+}
+
+#six { background-color:black;
+width:60%;
+margin: auto;
+margin-top: 10px;
+padding: 10px;
+height: 60%;
+color: #FFF;
+
+
+}
+
+#five {
+width:75%;
+margin: auto;
+margin-top: 40px;
+padding: 10px;
+	
+}
+
+#image2 {
+max-width:61.2%;
+margin: auto;
+margin-top: 40px;
+padding: 10px;
+	
+}
+
+#image2:hover { opacity: 0.6;
+    filter: alpha(opacity=40); /* For IE8 and earlier */
+	transition: all 0.5s;
+	}
+
