@@ -41,8 +41,7 @@ padding: 10px;
 }
 
 #one { background-color:black;
-max-width:60%;
-mix-width:50%;
+width:60%;
 margin: auto;
 margin-top: 60px;
 padding: 10px;
