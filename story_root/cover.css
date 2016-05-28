@@ -11,10 +11,14 @@ body {
 #title {
 	
 	position: absolute;
-	bottom: 75%;
 	left: 25%;
 	width: 50%;
 	text-align: center;
+	text-shadow: -1px -1px 0 white,
+1px -1px 0 white,
+-1px 1px 0 white,
+1px 1px 0 white;
+
 	}
 	
 #title h1 a:link {
