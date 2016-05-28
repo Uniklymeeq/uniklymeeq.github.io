@@ -32,8 +32,7 @@ min-width: 100%;
 }  
 
 #image {
-max-width:61.2%;
-mix-width:61.2%;
+width:60%;
 margin: auto;
 margin-top: 40px;
 padding: 10px;
@@ -155,8 +154,7 @@ color: #FFF;
 }
 
 #image2 {
-max-width:61.2%;
-mix-width:61.2%;
+width:60%;
 margin: auto;
 margin-top: 40px;
 padding: 10px;
